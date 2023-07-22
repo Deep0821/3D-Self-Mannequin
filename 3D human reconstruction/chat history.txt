@@ -1,0 +1,191 @@
+
+
+Beau Maruff
+ Indooroopilly, Australia
+
+
+
+
+I'd like to invite you to take a look at the job I've posted. Please submit a proposal if you're available and interested.
+
+
+
+IpVoyage T.
+
+Beau Maruff 09:29 PM
+Thanks for inviting me. Please discuss more details on the project.
+
+View details
+Fri, Jun 09
+Beau Maruff 12:18 AM
+I think we have to implement all tech specs for your project.
+
+
+
+Web and Mobile Application Development: The first step is to develop a web interface and mobile application that is compatible with Android, iOS, Windows, and Mac platforms.
+I'm going to use web development frameworks such as React for the web interface and React Native for the mobile application.
+
+
+
+Computer Vision and Machine Learning: The next step is to utilize advanced computer vision algorithms and machine learning techniques to process the images captured from different angles and generate an accurate 3D self-mannequin with realistic face and texture.
+I'm going to use computer vision libraries such as OpenCV and machine learning frameworks such as TensorFlow or PyTorch.
+and I will use powerful Full-body Mesh Recovery Deep Learning model- Pyramidal Mesh Alignment Feedback (PyMAF) for human mesh recovery.
+
+
+
+Measurement System: The third step is to implement a robust measurement system that extracts body measurements from the 3D self-mannequin.
+we can computer vision techniques such as pose estimation and keypoint detection to identify body landmarks and extract measurements.
+I'm going to use XGBoost deep learning model for 3D human measurement system.
+
+
+
+360-Degree Visualization: The fourth step is to integrate a 360-degree visualization feature that allows users to virtually try on their tailored suits/dresses/sarees/blouse on the self-mannequin, assessing fitment and style from all angles.
+I think we can use 3D rendering libraries such as Three.js or Babylon.js.
+
+
+
+User Login and Profile Management: The fifth step is to include a secure user login and profile management system, enabling users to easily access and update their measurements and view their complete history.
+I will use authentication and authorization frameworks such as OAuth or JWT or my own Auth system for your project.
+
+
+
+API Development: The sixth step is to develop comprehensive APIs for seamless integration with the client's website, facilitating a smooth user experience and centralized data management.
+I'm going to use python web API framework - Django.
+
+
+
+I hope to discuss more details through the chat. Thank you.
+
+IT
+IpVoyage Technologies 07:25 AM
+Sounds like a good plan, please let me know your good time to speak.
+
+Beau Maruff 08:43 AM
+Hello. I'm available now.
+
+IT
+IpVoyage Technologies 10:05 AM
+just check your message now.
+
+Beau Maruff 10:05 AM
+Please discuss more details.
+
+IT
+IpVoyage Technologies 10:07 AM
+I am in another call, till what time you will be available?
+
+Beau Maruff 10:09 AM
+Hello. How are you? you need to develop all specs by me? Please let me know which module I have to develope in your project.
+
+Sure. Will wait..
+
+I'm available now to discuss on the project.
+
+IT
+IpVoyage Technologies 10:36 AM
+Here are the requirements.
+
+Self 3D mannequin Scope.docx 
+Self 3D mannequin Scope.docx
+2.44 MB
+Beau Maruff 10:38 AM
+Let me check on it.
+
+Beau Maruff 10:48 AM
+Ok, I got it all specs what I have to do.
+
+So what kind of model do you like to implement for 3D human body reconstruction?
+
+I'm going to use Pyramidal Mesh Alignment Feedback (PyMAF) deep learning model for human mesh recovery.
+
+PyMAF leverages a feature pyramid and enables an alignment feedback loop in deep neural network and improve human mesh recovery correctness.
+
+What do you think of it?
+
+PyMAF.png 
+PyMAF.png
+It is PyMAF model structure.
+
+IT
+IpVoyage Technologies 11:50 AM
+I am Okay with-it as long as it is taking correct measurements and giving me self 3D model. Please send me your proposal with delivery timelines.
+
+Beau Maruff 12:01 PM
+I will finish 3D human mesh functionality with PyMAF training and testing within 7 days. and finish 3D garments reconstruction with multi-garment net within 7 days.
+
+I will implement rendering system with Blender cycle in 5 days.
+
+Beau Maruff 12:11 PM
+MGN.png 
+MGN.png
+This is multi-garment net structure for 3D garments reconstruction with custom clothes.
+
+Sat, Jun 10
+IT
+IpVoyage Technologies 06:14 AM
+Great.. Let's connect and discuss on the next steps.
+
+Are you in US pacific time?
+
+Beau Maruff 06:22 AM
+Hello, I'm available now. Please discuss more details. So Please let me know your plan for this project.
+
+I have to develop all specs from scratch. right?
+
+IT
+IpVoyage Technologies 07:25 AM
+Are you available now?
+
+Yes.
+
+Beau Maruff Today 06:23 AM
+I have to develop all specs from scratch. right?
+
+IT
+IpVoyage Technologies 07:31 AM
+Here is the meeting link to join. Please let me know when you are ready to connect. Thanks
+
+
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzJmOTljZmQtODdlOS00YmNmLTkzMjUtNmZhYWJkNDVlYjYw%40thread.v2/0?context=%7b%22Tid%22%3a%224a4972cd-c718-4120-a031-c9f1e4f828e1%22%2c%22Oid%22%3a%221530fe32-62a5-41dc-b60f-5cafcc37f534%22%7d
+
+Microsoft Teams
+Join conversation
+Beau Maruff 07:35 AM
+I have no camera and earphone on my pc right now. If you don't mind. let's discuss through the chat.
+
+IT
+IpVoyage Technologies 07:36 AM
+Sure.
+
+Beau Maruff 07:37 AM
+Please let me know your dev plan on this project.
+
+IT
+IpVoyage Technologies 07:41 AM
+We need to create this as SAS application, which can be connected independently with any platform through APIs or token system. 
+This tool will have an independent database, wherein users can access their saved pictures', correct their measurements, 
+put on the custom tailored fittings before they make any purchase. Please submit your complete proposal with tech stack, 
+timelines (as provided earlier), testing methodologies, roll out strategies etc.
+
+IT
+IpVoyage Technologies 07:46 AM
+We can finalize to contract after signing an NDA and start our work. 
+BTW, once development starts, it's difficult to communicate in chat, 
+we need to see the product development through virtual meeting room and discuss if any modifications are required. 
+I need your help to support the tool in future. We can discuss the commercials separately for the support after 3 months.
+
+Beau Maruff 07:54 AM
+Ok, I agree with you. I will send you complete proposal for this project. Thanks.
+
+
+
+Hello. I have checked on your work order and I'm confident to deliver perfect result as you want.
+But I have some question.
+you have mentioned the project budget is 2.5k for integrating web mobile dev including frontend and api backend and 3D human mesh full body 
+reconstruction&measurement, virtual dressing & rendering module. 
+and  also mentioned that time line is 15 days.
+As you can see, this project is really big project requiring bunch of advanced tech specs such as cutting-edige computer vision 
+and machine learning techniques and it will be taken more time and efforts than you estimated on work order to finish this project.
+Sorry but I hope you can ask to other deep learning developers how much will be cost such big project. 
+I really want to work with you in long term relationship and hope everything will be ok.
