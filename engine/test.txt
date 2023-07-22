@@ -1,0 +1,7 @@
+python demos/demo_fit_body.py --saveObj True
+python demos/demo_fit_body.py --tPose True
+
+
+Hello, This is the 3D Human Body Reconstruction Engine to generate 3D mesh shape.
+
+I will process 4 images at the same time
